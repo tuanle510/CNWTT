@@ -5,10 +5,16 @@ D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTT.deps.json
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTT.runtimeconfig.json
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTT.dll
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTT.pdb
+D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\Dapper.dll
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\MySqlConnector.dll
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTTBL.dll
+D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTTDL.dll
+D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTTBL.pdb
+D:\BK-document\CNWTT\CNWTT\bin\Debug\net6.0\CNWTTDL.pdb
 D:\BK-document\CNWTT\CNWTT\obj\Debug\net6.0\CNWTT.csproj.AssemblyReference.cache
 D:\BK-document\CNWTT\CNWTT\obj\Debug\net6.0\CNWTT.GeneratedMSBuildEditorConfig.editorconfig
 D:\BK-document\CNWTT\CNWTT\obj\Debug\net6.0\CNWTT.AssemblyInfoInputs.cache

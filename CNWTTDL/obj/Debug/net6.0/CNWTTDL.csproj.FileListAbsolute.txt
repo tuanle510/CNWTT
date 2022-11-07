@@ -1,0 +1,15 @@
+D:\BK-document\CNWTT\CNWTTDL\bin\Debug\net6.0\CNWTTDL.deps.json
+D:\BK-document\CNWTT\CNWTTDL\bin\Debug\net6.0\CNWTTDL.dll
+D:\BK-document\CNWTT\CNWTTDL\bin\Debug\net6.0\CNWTTDL.pdb
+D:\BK-document\CNWTT\CNWTTDL\bin\Debug\net6.0\CNWTTBL.dll
+D:\BK-document\CNWTT\CNWTTDL\bin\Debug\net6.0\CNWTTBL.pdb
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.csproj.AssemblyReference.cache
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.AssemblyInfoInputs.cache
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.AssemblyInfo.cs
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.csproj.CoreCompileInputs.cache
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.csproj.CopyComplete
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.dll
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\refint\CNWTTDL.dll
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\CNWTTDL.pdb
+D:\BK-document\CNWTT\CNWTTDL\obj\Debug\net6.0\ref\CNWTTDL.dll

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Knbaj5So0z9LWmBcjsxI5Zkhu3rTPgrMPkc1cqe4AOiknPdN06jNk8PCt3SE7QtW5oWWuwXYsIq/d9g50OfUzA==",
+  "dgSpecHash": "u4ul7nO+S6Pn/7KjZ34aMcxfcPvEfyugGkDJGza9zuNf7F4dsWP47X9Q2Fj/ZIN3l7l5l/pOVHS5dLjms2Q4nw==",
   "success": true,
   "projectFilePath": "D:\\BK-document\\CNWTT\\CNWTTBL\\CNWTTBL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

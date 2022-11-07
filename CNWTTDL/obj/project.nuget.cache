@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "l2vWZFjhokHZ2TLpPtZb3VVHqdQn8TCtqsC9FLqO5I/ZKc6EFNW45WGhO2L8SdfMXHuwoeiBirpTUxiCdlqFqg==",
+  "dgSpecHash": "zi/WetxALLI1mnIql8NJnwt54R3+PmU5Zaov0q7j0B3D4rcHsSqWySk8hjSgazd9fpF9+EXKNSsus1eQ1D+arA==",
   "success": true,
   "projectFilePath": "D:\\BK-document\\CNWTT\\CNWTTDL\\CNWTTDL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
