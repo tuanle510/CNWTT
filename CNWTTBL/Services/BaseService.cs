@@ -3,6 +3,7 @@ using CNWTTBL.Interfaces.Services;
 using MISA.Core.Exceptions;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,18 +31,18 @@ namespace CNWTTBL.Services
         public int InsertService(T entity)
         {
             //Thực hiện validate dữ liệu
-            var isValid = Validate(entity) ;
+            var isValid = Validate(entity);
             //Thực hiện thêm mới vào database:
-            if(isValid == true)
+            if (isValid.Count() == 0)
             {
                 var res = _baseRepo.Insert(entity);
                 return res;
             }
             else
             {
-                throw new HUSTValidateException("Dữ liệu đầu vào không hợp lệ");
+                throw new HUSTValidateException("Dữ liệu đầu vào không hợp lệ", isValid);
             }
-            
+
         }
         /// <summary>
         /// Kiểm tra dữ liệu khi insert
@@ -50,18 +51,18 @@ namespace CNWTTBL.Services
         /// <returns></returns>
         /// <exception cref="MISAValidateException"></exception>
         /// CreatedBy: BDAnh(10/05/2022)
-        public int UpdateService(Guid id,T entity)
+        public int UpdateService(Guid id, T entity)
         {
             var isValid = Validate(entity);
             //Thực hiện thêm mới vào database:
-            if (isValid == true)
+            if (isValid.Count() == 0)
             {
                 var res = _baseRepo.Update(id, entity);
                 return res;
             }
             else
             {
-                throw new HUSTValidateException("Dữ liệu đầu vào không hợp lệ");
+                throw new HUSTValidateException("Dữ liệu đầu vào không hợp lệ", isValid);
             }
         }
 
@@ -71,10 +72,21 @@ namespace CNWTTBL.Services
         /// <param name="entity"></param>
         /// <returns></returns>
         /// CreatedBy: BDAnh(08/11/2022)
-        protected virtual bool Validate(T entity)
+        protected virtual List<string> Validate(T entity)
         {
+            List<string> errors = new List<string>();
+            ValidationContext context = new ValidationContext(entity);
+            var validateEntity = new List<ValidationResult>();
+            bool result = Validator.TryValidateObject(entity, context, validateEntity, true);
+            if (!result)
+            {
+                validateEntity.ToList().ForEach((error) =>
+                {
+                    errors.Add(error.ErrorMessage);
+                });
+            };
 
-            return true;
+            return errors;
         }
     }
 }

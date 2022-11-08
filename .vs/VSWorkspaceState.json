@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CNWTT",
+    "\\CNWTTBL",
+    "\\CNWTTBL\\Entities",
+    "\\CNWTTBL\\Interfaces",
+    "\\CNWTTBL\\Interfaces\\Services",
+    "\\CNWTTBL\\Services",
+    "\\CNWTT\\Controllers"
+  ],
+  "SelectedNode": "\\CNWTT\\Controllers\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}

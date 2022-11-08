@@ -10,3 +10,15 @@ D:\BK-document\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.dll
 D:\BK-document\CNWTT\CNWTTBL\obj\Debug\net6.0\refint\CNWTTBL.dll
 D:\BK-document\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.pdb
 D:\BK-document\CNWTT\CNWTTBL\obj\Debug\net6.0\ref\CNWTTBL.dll
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\bin\Debug\net6.0\CNWTTBL.deps.json
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\bin\Debug\net6.0\CNWTTBL.dll
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\bin\Debug\net6.0\CNWTTBL.pdb
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.dll
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\refint\CNWTTBL.dll
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\CNWTTBL.pdb
+C:\Users\ASUS\Documents\GitHub\CNWTT\CNWTTBL\obj\Debug\net6.0\ref\CNWTTBL.dll

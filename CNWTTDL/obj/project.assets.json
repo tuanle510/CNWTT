@@ -1044,6 +1044,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Dapper": "2.0.123",
+          "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "MySqlConnector": "2.1.13"
         },

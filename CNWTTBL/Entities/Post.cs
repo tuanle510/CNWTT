@@ -9,8 +9,10 @@ namespace CNWTTBL.Entities
 {
     public class Post : BaseEntity
     {
+        [Required(ErrorMessage ="ID của bài đăng phải được thiết lập")]
         public Guid PostID { get; set; }
-        [MaxLength]
+        [Required(ErrorMessage ="Bài đăng không được để trống")]
+        [StringLength(500, MinimumLength = 0, ErrorMessage = "Số lượng kí tự không được quá 500")]
         public string Content { get; set; }
 
         public Guid ObjectSharedID { get; set; }

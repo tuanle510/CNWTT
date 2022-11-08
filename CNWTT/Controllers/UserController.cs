@@ -9,9 +9,9 @@ namespace CNWTT.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController : HUSTBaseController<User>
+    public class UserController : HUSTBaseController<Post>
     {
-        public UserController(IBaseService<User> baseService, IBaseRepo<User> baseRepo) : base(baseService, baseRepo)
+        public UserController(IBaseService<Post> baseService, IBaseRepo<Post> baseRepo) : base(baseService, baseRepo)
         {
         }
     }
