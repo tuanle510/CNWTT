@@ -144,5 +144,6 @@ namespace CNWTT.Controllers
             else
                 return StatusCode(500, res); //Lỗi từ server trả về 500
         }
+
     }
 }

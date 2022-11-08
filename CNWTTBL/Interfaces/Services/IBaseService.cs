@@ -23,5 +23,6 @@ namespace CNWTTBL.Interfaces.Services
         /// <param name="entity"> đối tượng đã sửa </param>
         /// <returns></returns>
         int UpdateService(Guid entityId, T entity);
+
     }
 }

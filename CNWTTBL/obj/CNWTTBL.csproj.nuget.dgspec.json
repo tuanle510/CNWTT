@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BK-document\\CNWTT\\CNWTTBL\\CNWTTBL.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\CNWTT\\CNWTTBL\\CNWTTBL.csproj": {}
   },
   "projects": {
-    "D:\\BK-document\\CNWTT\\CNWTTBL\\CNWTTBL.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\CNWTT\\CNWTTBL\\CNWTTBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BK-document\\CNWTT\\CNWTTBL\\CNWTTBL.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\CNWTT\\CNWTTBL\\CNWTTBL.csproj",
         "projectName": "CNWTTBL",
-        "projectPath": "D:\\BK-document\\CNWTT\\CNWTTBL\\CNWTTBL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\BK-document\\CNWTT\\CNWTTBL\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\CNWTT\\CNWTTBL\\CNWTTBL.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\CNWTT\\CNWTTBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,14 @@
               "target": "Package",
               "version": "[2.0.123, )"
             },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "MySqlConnector": {
               "target": "Package",
               "version": "[2.1.13, )"
@@ -64,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
